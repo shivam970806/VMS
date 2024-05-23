@@ -29,7 +29,7 @@ The project structure follows common Django conventions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ /Vendor-Management-System.git
+   https://github.com/shivam970806/VMS.git
 
 2. `cd Vendor-Management-System`
 3. `python -m venv venv`
