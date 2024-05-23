@@ -42,6 +42,4 @@ The project structure follows common Django conventions:
 ## API Documentation
 The API will be accessible at `http://127.0.0.1:8000/`.
 
-API documentation is available `https://documenter.getpostman.com/view/28628748/2s9YeLYpWZ`.
-
 Access the admin interface at `http://127.0.0.1:8000/admin/`.
